@@ -10,9 +10,7 @@ symbol,industry
 A2ZINFRA,Civil Construction
 AAATECH,Consulting Services
 AADHARHFC,Housing Finance Company
-AAKAAR,Unknown
 AAKASH,Offshore Support Solution Drilling
-AARADHYA,Unknown
 AAREYDRUGS,Pharmaceuticals
 AARON,Industrial Products
 AARTECH,Heavy Electrical Equipment
@@ -21,6 +19,7 @@ AARTIIND,Specialty Chemicals
 AARTIPHARM,Pharmaceuticals
 AARTISURF,Specialty Chemicals
 AARVI,Diversified Commercial Services
+AATMAJ,Unknown
 AAVAS,Housing Finance Company
 ABAN,Offshore Support Solution Drilling
 ABB,Heavy Electrical Equipment
@@ -86,20 +85,18 @@ AGARWALEYE,Hospital
 AGARWALTUF,Unknown
 AGI,Packaging
 AGIIL,"Residential, Commercial Projects"
-AGNI,Unknown
 AGRITECH,Other Agricultural Products
 AGROPHOS,Fertilizers
-AGUL,Unknown
 AHCL,Unknown
 AHLADA,"Furniture, Home Furnishing"
 AHLEAST,Hotels & Resorts
 AHLUCONT,Civil Construction
 AIAENG,Castings & Forgings
 AIIL,Non Banking Financial Company (NBFC)
-AILIMITED,Unknown
 AIMTRON,Unknown
 AIRAN,IT Enabled Services
 AIROLAM,Plywood Boards/ Laminates
+AISL,Unknown
 AJANTPHARM,Pharmaceuticals
 AJAXENGG,Construction Vehicles
 AJMERA,"Residential, Commercial Projects"
@@ -145,6 +142,8 @@ AMBIKCO,Other Textile Products
 AMBUJACEM,Cement & Cement Products
 AMCL,Unknown
 AMDIND,Packaging
+AMEYA,Unknown
+AMIABLE,Unknown
 AMJLAND,"Residential, Commercial Projects"
 AMNPLST,Commodity Chemicals
 AMRUTANJAN,Pharmaceuticals
@@ -166,7 +165,6 @@ ANUHPHR,Pharmaceuticals
 ANUP,Industrial Products
 ANURAS,Specialty Chemicals
 ANYA,Unknown
-ANZEN,Unknown
 AONEGOLD,Unknown
 AONELIQUID,LIQUID
 AONENIFTY,ETF
@@ -197,6 +195,7 @@ ARENTERP,Trading - Minerals
 ARFIN,Aluminium
 ARHAM,Unknown
 ARIES,Fertilizers
+ARIHANTACA,Unknown
 ARIHANTCAP,Stockbroking & Allied
 ARIHANTSUP,"Residential, Commercial Projects"
 ARISINFRA,Other Construction Materials
@@ -218,6 +217,7 @@ ASAHIINDIA,Auto Components & Equipments
 ASAHISONG,Dyes And Pigments
 ASAL,Auto Components & Equipments
 ASALCBR,Breweries & Distilleries
+ASCOM,Unknown
 ASHALOG,Unknown
 ASHAPURMIN,Industrial Minerals
 ASHIANA,"Residential, Commercial Projects"
@@ -230,7 +230,6 @@ ASIANHOTNR,Hotels & Resorts
 ASIANPAINT,Paints
 ASIANTILES,Ceramics
 ASKAUTOLTD,Auto Components & Equipments
-ASLIND,Unknown
 ASMS,IT Enabled Services
 ASPINWALL,Logistics Solution Provider
 ASPIRE,Unknown
@@ -259,7 +258,6 @@ AURIONPRO,Computers - Software & Consulting
 AUROIMPEX,Unknown
 AUROPHARMA,Pharmaceuticals
 AURUM,IT Enabled Services
-AUSL,Unknown
 AUSOMENT,"Gems, Jewellery And Watches"
 AUTOAXLES,Auto Components & Equipments
 AUTOBEES,ETF
@@ -300,7 +298,6 @@ BAGDIGITAL,Unknown
 BAGFILMS,TV Broadcasting & Software Production
 BAHETI,Unknown
 BAIDFIN,Non Banking Financial Company (NBFC)
-BAIDFIN-RE,Unknown
 BAJAJ-AUTO,Unknown
 BAJAJCON,Personal Care
 BAJAJELEC,Household Appliances
@@ -317,7 +314,6 @@ BALAJIPHOS,Unknown
 BALAJITELE,Media & Entertainment
 BALAMINES,Specialty Chemicals
 BALAXI,Pharmaceuticals
-BALCO,Unknown
 BALKRISHNA,Paper & Paper Products
 BALKRISIND,Tyres & Rubber Products
 BALMLAWRIE,Diversified
@@ -395,6 +391,7 @@ BIL,Leather And Leather Products
 BILVYAPAR,Unknown
 BIOCON,Pharmaceuticals
 BIOFILCHEM,Pharmaceuticals
+BIRDYS,Unknown
 BIRET,Unknown
 BIRLACABLE,Telecom -  Equipment & Accessories
 BIRLACORPN,Cement & Cement Products
@@ -407,6 +404,7 @@ BLISSGVS,Pharmaceuticals
 BLKASHYAP,Civil Construction
 BLS,"Tour, Travel Related Services"
 BLSE,IT Enabled Services
+BLUECHIP,Investment Company
 BLUECOAST,Hotels & Resorts
 BLUEDART,Logistics Solution Provider
 BLUEJET,Pharmaceuticals
@@ -425,6 +423,7 @@ BOROLTD,Houseware
 BORORENEW,Glass - Industrial
 BOROSCI,Glass - Industrial
 BOSCHLTD,Auto Components & Equipments
+BOSS,Unknown
 BPCL,Refineries & Marketing
 BPL,Consumer Electronics
 BRACEPORT,Unknown
@@ -481,6 +480,7 @@ CEIGALL,Civil Construction
 CELEBRITY,Garments & Apparels
 CELLECOR,Unknown
 CELLO,Houseware
+CELLPOINT,Unknown
 CEMPRO,Unknown
 CENTENKA,Other Textile Products
 CENTEXT,"Aluminium, Copper & Zinc Products"
@@ -545,7 +545,6 @@ CONSOFINVT,Non Banking Financial Company (NBFC)
 CONSUMBEES,ETF
 CONSUMER,ETF
 CONSUMIETF,ETF
-CONTI,Unknown
 CONTROLPR,Computers Hardware & Equipments
 COOLCAPS,Unknown
 CORALFINAC,Diversified Commercial Services
@@ -556,7 +555,6 @@ COUNCODOS,"Residential, Commercial Projects"
 CPCAP,Non Banking Financial Company (NBFC)
 CPEDU,Unknown
 CPPLUS,Industrial Products
-CPS,Unknown
 CPSEETF,ETF
 CRAFTSMAN,Auto Components & Equipments
 CRAMC,Unknown
@@ -572,7 +570,6 @@ CSBBANK,Private Sector Bank
 CSLFINANCE,Non Banking Financial Company (NBFC)
 CTE,Computers - Software & Consulting
 CUB,Private Sector Bank
-CUBEINVIT,Unknown
 CUBEXTUB,"Aluminium, Copper & Zinc Products"
 CUDML,Unknown
 CUMMINSIND,"Compressors, Pumps & Diesel Engines"
@@ -603,6 +600,7 @@ DBSTOCKBRO,Stockbroking & Allied
 DCAL,Pharmaceuticals
 DCBBANK,Private Sector Bank
 DCCL,Unknown
+DCG,Unknown
 DCI,Computers Hardware & Equipments
 DCM,IT Enabled Services
 DCMFINSERV,Investment Company
@@ -652,6 +650,7 @@ DIGIDRIVE,E-Retail/ E-Commerce
 DIGIKORE,Unknown
 DIGISPICE,IT Enabled Services
 DIGITIDE,IT Enabled Services
+DIGJAMLMTD,Other Textile Products
 DIL,Hotels & Resorts
 DISHTV,TV Broadcasting & Software Production
 DIVGIITTS,Auto Components & Equipments
@@ -661,6 +660,7 @@ DIVOPPBEES,ETF
 DIVYADHAN,Unknown
 DIXON,Consumer Electronics
 DJML,Logistics Solution Provider
+DKEGL,Unknown
 DLF,"Residential, Commercial Projects"
 DLINKINDIA,Computers Hardware & Equipments
 DMART,Diversified Retail
@@ -682,9 +682,9 @@ DREAMFOLKS,Airport & Airport services
 DREDGECORP,Dredging
 DRONE,Unknown
 DRREDDY,Pharmaceuticals
+DRSDILIP,Unknown
 DSSL,IT Enabled Services
 DTIL,Tea & Coffee
-DTL,Unknown
 DUCOL,Unknown
 DUCON,Industrial Products
 DUGLOBAL,Unknown
@@ -697,6 +697,7 @@ DYNAMIC,Unknown
 DYNPRO,Specialty Chemicals
 E2E,IT Enabled Services
 EASEMYTRIP,"Tour, Travel Related Services"
+EASTSILK,Unknown
 EBANKNIFTY,ETF
 EBBETF0430,ETF
 EBBETF0431,ETF
@@ -783,6 +784,7 @@ ESSENTIA,Trading & Distributors
 ESTER,Packaging
 ETERNAL,E-Retail/ E-Commerce
 ETHOSLTD,"Gems, Jewellery And Watches"
+ETL,Unknown
 ETML,Unknown
 EUREKAFORB,Household Appliances
 EUROBOND,"Aluminium, Copper & Zinc Products"
@@ -802,16 +804,15 @@ EXXARO,Ceramics
 FABTECH,Unknown
 FACT,Fertilizers
 FAIRCHEMOR,Specialty Chemicals
-FALCONTECH,Unknown
 FAZE3Q,Other Textile Products
 FCL,Specialty Chemicals
+FCONSUMER,Unknown
 FCSSOFT,IT Enabled Services
 FDC,Pharmaceuticals
 FEDERALBNK,Private Sector Bank
 FEDFINA,Non Banking Financial Company (NBFC)
 FELIX,Unknown
 FIBERWEB,Other Textile Products
-FIDEL,Unknown
 FIEMIND,Auto Components & Equipments
 FILATEX,Other Textile Products
 FILATFASH,Garments & Apparels
@@ -833,12 +834,10 @@ FLYSBS,Unknown
 FMCGIETF,ETF
 FMGOETZE,Auto Components & Equipments
 FMNL,Diversified Commercial Services
-FOCE,Unknown
 FOCUS,Consumer Electronics
 FOODSIN,Packaged Foods
 FORCAS,Unknown
 FORCEMOT,Passenger Cars & Utility Vehicles
-FORGEAUTO,Unknown
 FORTIS,Hospital
 FOSECOIND,Specialty Chemicals
 FRESHARA,Unknown
@@ -880,6 +879,7 @@ GENUSPOWER,Other Electrical Equipment
 GEOJITFSL,Stockbroking & Allied
 GESHIP,Shipping
 GFLLIMITED,Holding Company
+GFSTEELS,Unknown
 GGBL,Unknown
 GHCL,Commodity Chemicals
 GHCLTEXTIL,Other Textile Products
@@ -897,6 +897,7 @@ GKWLIMITED,Investment Company
 GLAND,Pharmaceuticals
 GLAXO,Pharmaceuticals
 GLENMARK,Pharmaceuticals
+GLFL,Other Financial Services
 GLOBAL,Education
 GLOBALE,Trading - Textile Products
 GLOBALPET,Unknown
@@ -936,6 +937,7 @@ GOLDETFADD,ETF
 GOLDIAM,"Gems, Jewellery And Watches"
 GOLDIETF,ETF
 GOLDSHARE,ETF
+GOLDSTAR,Unknown
 GOLDTECH,Software Products
 GOODLUCK,Iron & Steel Products
 GOPAL,Packaged Foods
@@ -959,6 +961,7 @@ GREENLEAF,Unknown
 GREENPANEL,Plywood Boards/ Laminates
 GREENPLY,Plywood Boards/ Laminates
 GREENPOWER,Power Generation
+GRETEX,Unknown
 GRINDWELL,Abrasives & Bearings
 GRINFRA,Civil Construction
 GRMOVER,Other Agricultural Products
@@ -983,6 +986,7 @@ GROWWSLVR,ETF
 GRPLTD,Rubber
 GRSE,Aerospace & Defense
 GRWRHITECH,Plastic Products - Industrial
+GSEC10ABSL,ETF
 GSEC10IETF,ETF
 GSEC10YEAR,ETF
 GSEC5IETF,ETF
@@ -1099,23 +1103,23 @@ HNGSNGBEES,ETF
 HOACFOODS,Unknown
 HOLMARC,Unknown
 HOMEFIRST,Housing Finance Company
+HOMESFY,Unknown
 HONASA,Personal Care
 HONAUT,Industrial Products
 HONDAPOWER,Industrial Products
 HPAL,Specialty Chemicals
 HPIL,Dyes And Pigments
 HPL,Industrial Products
-HPTL,Unknown
 HRHNEXT,Unknown
 HSCL,Carbon Black
 HTMEDIA,Print Media
 HUBTOWN,"Residential, Commercial Projects"
 HUDCO,Financial Institution
 HUHTAMAKI,Packaging
-HVAX,Unknown
 HYBRIDFIN,Stockbroking & Allied
 HYUNDAI,Passenger Cars & Utility Vehicles
 IBLFL,Unknown
+IBULLSLTD,Unknown
 ICDSLTD,Diversified Commercial Services
 ICEMAKE,Industrial Products
 ICICIB22,ETF
@@ -1127,7 +1131,6 @@ ICRA,Ratings
 IDBI,Private Sector Bank
 IDEA,Telecom - Cellular & Fixed line services
 IDEAFORGE,Aerospace & Defense
-IDEALTECHO,Unknown
 IDENTICAL,Unknown
 IDFCFIRSTB,Private Sector Bank
 IDFNIFTYET,ETF
@@ -1167,6 +1170,7 @@ INDIGOPNTS,Paints
 INDIGRID,Unknown
 INDIQUBE,Diversified Commercial Services
 INDNIPPON,Auto Components & Equipments
+INDO-RE2,Unknown
 INDOAMIN,Specialty Chemicals
 INDOBORAX,Commodity Chemicals
 INDOCO,Pharmaceuticals
@@ -1229,7 +1233,6 @@ IRISDOREME,Garments & Apparels
 IRMENERGY,LPG/CNG/PNG/LNG Supplier
 ISFT,E-Retail/ E-Commerce
 ISGEC,Civil Construction
-ISHAN,Unknown
 ISHANCH,Specialty Chemicals
 IT,ETF
 ITALIANE,Unknown
@@ -1246,6 +1249,7 @@ IVALUE,Unknown
 IVC,Asset Management Company
 IVP,Specialty Chemicals
 IVZINGOLD,ETF
+IVZINNIFTY,ETF
 IWARE,Unknown
 IXIGO,"Tour, Travel Related Services"
 IZMO,IT Enabled Services
@@ -1271,8 +1275,8 @@ JBCHEPHARM,Pharmaceuticals
 JBMA,Auto Components & Equipments
 JCHAC,Household Appliances
 JETFREIGHT,Logistics Solution Provider
+JETKNIT,Unknown
 JEYYAM,Unknown
-JFLLIFE,Unknown
 JGCHEM,Commodity Chemicals
 JHS,Personal Care
 JINDALPHOT,Investment Company
@@ -1297,6 +1301,7 @@ JMA,Trading - Auto components
 JMFINANCIL,Holding Company
 JNKINDIA,Industrial Products
 JOCIL,Commodity Chemicals
+JPASSOCIAT,Unknown
 JPOLYINVST,Investment Company
 JPPOWER,Power Generation
 JSFB,Other Bank
@@ -1498,7 +1503,6 @@ LOWVOL1,ETF
 LOWVOLIETF,ETF
 LOYALTEX,Other Textile Products
 LPDC,Real Estate related services
-LRRPL,Unknown
 LT,Civil Construction
 LTF,Non Banking Financial Company (NBFC)
 LTFOODS,Other Agricultural Products
@@ -1539,9 +1543,7 @@ MAHLOG,Logistics Solution Provider
 MAHSCOOTER,Investment Company
 MAHSEAMLES,Iron & Steel Products
 MAITHANALL,Ferro & Silica Manganese
-MAITREYA,Unknown
 MAKEINDIA,Unknown
-MAL,Unknown
 MALLCOM,Other Industrial Products
 MALUPAPER,Paper & Paper Products
 MAMATA,Industrial Products
@@ -1551,9 +1553,9 @@ MANAKSIA,Iron & Steel Products
 MANAKSTEEL,Iron & Steel
 MANALIPETC,Petrochemicals
 MANAPPURAM,Non Banking Financial Company (NBFC)
+MANAV,Unknown
 MANBA,Non Banking Financial Company (NBFC)
 MANCREDIT,Non Banking Financial Company (NBFC)
-MANDEEP,Unknown
 MANGALAM,Pharmaceuticals
 MANGLMCEM,Cement & Cement Products
 MANINDS,Iron & Steel Products
@@ -1568,8 +1570,10 @@ MANYAVAR,Speciality Retail
 MAPMYINDIA,Software Products
 MARALOVER,Other Textile Products
 MARATHON,"Residential, Commercial Projects"
+MARCO,Unknown
 MARICO,Edible Oil
 MARINE,Industrial Products
+MARINETRAN,Unknown
 MARKOLINES,Unknown
 MARKSANS,Pharmaceuticals
 MARUTI,Passenger Cars & Utility Vehicles
@@ -1599,13 +1603,10 @@ MCLEODRUSS,Tea & Coffee
 MCLOUD,Computers - Software & Consulting
 MCON,Unknown
 MCX,Exchange and Data Platform
-MDL,Unknown
 MEDANTA,Hospital
 MEDIASSIST,Insurance Distributors
 MEDICAMEQ,Pharmaceuticals
 MEDICO,Pharmaceuticals
-MEDIORG,Unknown
-MEDISTEP,Unknown
 MEDPLUS,Pharmacy Retail
 MEGAFLEX,Unknown
 MEGASOFT,Other Telecom Services
@@ -1621,6 +1622,7 @@ MFML,Unknown
 MFSL,Life Insurance
 MGEL,Other Agricultural Products
 MGL,LPG/CNG/PNG/LNG Supplier
+MGSL,Unknown
 MHHL,Unknown
 MHLXMIRU,Other Textile Products
 MHRIL,Hotels & Resorts
@@ -1637,6 +1639,7 @@ MIDQ50ADD,ETF
 MIDSELIETF,ETF
 MIDSMALL,ETF
 MIDWESTLTD,Unknown
+MIEL,Unknown
 MILTON,Unknown
 MINDACORP,Auto Components & Equipments
 MINDSPACE,Unknown
@@ -1714,6 +1717,7 @@ MPSLTD,E-Learning
 MRF,Tyres & Rubber Products
 MRIL,Unknown
 MRPL,Refineries & Marketing
+MSCIADD,Unknown
 MSCIINDIA,ETF
 MSPL,Iron & Steel Products
 MSTCLTD,Trading & Distributors
@@ -1824,6 +1828,7 @@ NILKAMAL,Plastic Products - Consumer
 NINSYS,Computers - Software & Consulting
 NIPPOBATRY,Household Products
 NIRAJ,Civil Construction
+NIRAJISPAT,Plastic Products - Consumer
 NIRMAN,Unknown
 NITCO,Ceramics
 NITINSPIN,Other Textile Products
@@ -1875,6 +1880,7 @@ OMAXE,"Residential, Commercial Projects"
 OMFREIGHT,Unknown
 OMFURN,Unknown
 OMINFRAL,Civil Construction
+ONDOOR,Unknown
 ONELIFECAP,Stockbroking & Allied
 ONEPOINT,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
 ONESOURCE,Pharmaceuticals
@@ -1924,12 +1930,14 @@ PARADEEP,Fertilizers
 PARAGMILK,Dairy Products
 PARAGON,Unknown
 PARAMATRIX,Unknown
+PARAMOUNT,Unknown
 PARAS,Aerospace & Defense
 PARASPETRO,Investment Company
 PARIN,Unknown
 PARKHOTELS,Hotels & Resorts
 PARSVNATH,"Residential, Commercial Projects"
 PARTH,Unknown
+PARTYCRUS,Unknown
 PASHUPATI,Other Textile Products
 PASUPTAC,Petrochemicals
 PATANJALI,Edible Oil
@@ -1937,6 +1945,8 @@ PATELENG,Civil Construction
 PATELRMART,Unknown
 PATILAUTOM,Unknown
 PATINTLOG,Logistics Solution Provider
+PATTECH,Unknown
+PAUSHAKLTD,Unknown
 PAVNAIND,Auto Components & Equipments
 PAYTM,Financial Technology (Fintech)
 PCBL,Carbon Black
@@ -1976,6 +1986,7 @@ PIRAMALFIN,Unknown
 PITTIENG,Industrial Products
 PIXTRANS,Rubber
 PKTEA,Tea & Coffee
+PLADAINFO,Unknown
 PLASTIBLEN,Specialty Chemicals
 PLATIND,Specialty Chemicals
 PLAZACABLE,Cables - Electricals
@@ -2033,8 +2044,7 @@ PRITIKAUTO,Auto Components & Equipments
 PRIVISCL,Specialty Chemicals
 PRIZOR,Unknown
 PRLIND,Unknown
-PROFX,Unknown
-PROPEQUITY,Unknown
+PROLIFE,Unknown
 PROSTARM,Other Electrical Equipment
 PROTEAN,IT Enabled Services
 PROV,Unknown
@@ -2079,6 +2089,7 @@ QUESS,Diversified Commercial Services
 QUESTLAB,Unknown
 QUICKHEAL,Software Products
 QUICKTOUCH,Unknown
+QUINTEGRA,Unknown
 QVCEL,Unknown
 RACE,Waste Management
 RACLGEAR,Auto Components & Equipments
@@ -2151,18 +2162,17 @@ REPRO,Printing & Publication
 RESPONIND,"Furniture, Home Furnishing"
 RETAIL,Diversified Retail
 REXPIPES,Unknown
+REXPRO,Unknown
 RGL,"Gems, Jewellery And Watches"
 RHETAN,Unknown
 RHIM,Electrodes & Refractories
 RHL,Hotels & Resorts
-RICHA,Unknown
 RICOAUTO,Auto Components & Equipments
 RIIL,Logistics Solution Provider
 RILINFRA,Unknown
 RISHABH,Other Electrical Equipment
 RITCO,Logistics Solution Provider
 RITES,Civil Construction
-RITEZONE,Unknown
 RKDL,Breweries & Distilleries
 RKEC,Civil Construction
 RKFORGE,Auto Components & Equipments
@@ -2233,7 +2243,6 @@ SAHYADRI,Other Construction Materials
 SAIFL,Unknown
 SAIL,Iron & Steel
 SAILIFE,Pharmaceuticals
-SAJHOTELS,Unknown
 SAKAR,Pharmaceuticals
 SAKHTISUG,Sugar
 SAKSOFT,Computers - Software & Consulting
@@ -2265,6 +2274,7 @@ SAPPHIRE,Restaurants
 SARDAEN,Iron & Steel
 SAREGAMA,Media & Entertainment
 SARLAPOLY,Other Textile Products
+SAROJA,Unknown
 SARTELE,Unknown
 SARVESHWAR,Other Agricultural Products
 SASKEN,IT Enabled Services
@@ -2274,7 +2284,6 @@ SATIA,Paper & Paper Products
 SATIN,Unknown
 SATIPOLY,Unknown
 SATKARTAR,Unknown
-SATTVAENGG,Unknown
 SAURASHCEM,Cement & Cement Products
 SAVY,Unknown
 SAWALIYA,Unknown
@@ -2305,11 +2314,13 @@ SDBL,Breweries & Distilleries
 SDL26BEES,ETF
 SDREAMS,Unknown
 SEAMECLTD,Shipping
+SECL,Unknown
 SECMARK,Computers - Software & Consulting
 SECURKLOUD,IT Enabled Services
 SEJALLTD,Glass - Industrial
 SEL,Unknown
 SELECTIPO,ETF
+SELLOWRAP,Unknown
 SELMC,Other Textile Products
 SEMAC,Civil Construction
 SENCO,"Gems, Jewellery And Watches"
@@ -2327,6 +2338,7 @@ SETFGOLD,ETF
 SETFNIF50,ETF
 SETFNIFBK,ETF
 SETFNN50,ETF
+SEYAIND,Unknown
 SFL,"Furniture, Home Furnishing"
 SFML,Unknown
 SGFIN,Non Banking Financial Company (NBFC)
@@ -2355,7 +2367,6 @@ SHEKHAWATI,Unknown
 SHEMAROO,Media & Entertainment
 SHERA,Unknown
 SHETHJI,Unknown
-SHIGAN,Unknown
 SHILCTECH,Unknown
 SHILPAMED,Pharmaceuticals
 SHIVALIK,Pesticides & Agrochemicals
@@ -2375,7 +2386,6 @@ SHREEKARNI,Unknown
 SHREEOSFM,Unknown
 SHREEPUSHK,Dyes And Pigments
 SHREERAMA,Packaging
-SHREMINVIT,Unknown
 SHRENIK,Paper & Paper Products
 SHREYANIND,Paper & Paper Products
 SHRIAHIMSA,Unknown
@@ -2458,8 +2468,6 @@ SONACOMS,Auto Components & Equipments
 SONAMAC,Unknown
 SONAMLTD,Consumer Electronics
 SONATSOFTW,Computers - Software & Consulting
-SONUINFRA,Unknown
-SOTAC,Unknown
 SOTL,Lubricants
 SOUTHBANK,Private Sector Bank
 SOUTHWEST,Diversified Commercial Services
@@ -2477,8 +2485,6 @@ SPLIL,Trading - Textile Products
 SPLPETRO,Petrochemicals
 SPMLINFRA,Civil Construction
 SPORTKING,Other Textile Products
-SPPPOLY,Unknown
-SPRL,Unknown
 SPUNWEB,Unknown
 SRD,Trading - Chemicals
 SREEL,Footwear
@@ -2533,7 +2539,6 @@ SUNDROP,Edible Oil
 SUNFLAG,Iron & Steel Products
 SUNLITE,Unknown
 SUNPHARMA,Pharmaceuticals
-SUNREST,Unknown
 SUNTECH,Unknown
 SUNTECK,"Residential, Commercial Projects"
 SUNTV,TV Broadcasting & Software Production
@@ -2561,17 +2566,16 @@ SUZLON,Heavy Electrical Equipment
 SVLL,Logistics Solution Provider
 SVPGLOB,Other Textile Products
 SWANCORP,Unknown
+SWANDEF,Unknown
 SWARAJ,Unknown
 SWARAJENG,"Compressors, Pumps & Diesel Engines"
 SWASTIK,Unknown
 SWELECTES,Heavy Electrical Equipment
 SWIGGY,E-Retail/ E-Commerce
 SWSOLAR,Civil Construction
-SYLVANPLY,Unknown
 SYMPHONY,Household Appliances
 SYNCOMF,Pharmaceuticals
 SYNGENE,"Healthcare Research, Analytics & Technology"
-SYNOPTICS,Unknown
 SYRMA,Industrial Products
 SYSTANGO,Unknown
 SYSTMTXC,Unknown
@@ -2623,6 +2627,7 @@ TECHM,Computers - Software & Consulting
 TECHNOE,Civil Construction
 TECILCHEM,Commodity Chemicals
 TEGA,Industrial Products
+TEJASCARGO,Unknown
 TEJASNET,Telecom -  Equipment & Accessories
 TEMBO,Unknown
 TENNIND,Unknown
@@ -2657,6 +2662,7 @@ TINNARUBR,Rubber
 TIPSFILMS,"Film Production, Distribution & Exhibition"
 TIPSMUSIC,Media & Entertainment
 TIRUMALCHM,Commodity Chemicals
+TIRUPATI,Unknown
 TIRUPATIFL,Unknown
 TITAGARH,Railway Wagons
 TITAN,"Gems, Jewellery And Watches"
@@ -2681,7 +2687,6 @@ TPLPLASTEH,Packaging
 TRACXN,Data Processing Services
 TRANSRAILL,Heavy Electrical Equipment
 TRANSTEEL,Unknown
-TRANSWIND,Unknown
 TRANSWORLD,Shipping
 TRAVELFOOD,Restaurants
 TREEHOUSE,Education
@@ -2716,6 +2721,7 @@ UBL,Breweries & Distilleries
 UCAL,Auto Components & Equipments
 UCOBANK,Public Sector Bank
 UDS,Diversified Commercial Services
+UEL,Unknown
 UFBL,Unknown
 UFLEX,Packaging
 UFO,"Film Production, Distribution & Exhibition"
@@ -2724,7 +2730,6 @@ UGROCAP,Non Banking Financial Company (NBFC)
 UHTL,Unknown
 UJJIVANSFB,Other Bank
 ULTRACEMCO,Cement & Cement Products
-UMA,Unknown
 UMAEXPORTS,Trading & Distributors
 UMESLTD,E-Learning
 UMIYA-MRO,Unknown
@@ -2743,6 +2748,7 @@ UNITDSPR,Breweries & Distilleries
 UNITECH,Unknown
 UNITEDPOLY,Other Textile Products
 UNITEDTEA,Tea & Coffee
+UNIVAFOODS,Unknown
 UNIVASTU,Civil Construction
 UNIVCABLES,Cables - Electricals
 UNIVPHOTO,Consumer Electronics
@@ -2752,7 +2758,6 @@ URAVIDEF,Auto Components & Equipments
 URBAN,Unknown
 URBANCO,Unknown
 URJA,Other Electrical Equipment
-USASEEDS,Unknown
 USHAFIN,Unknown
 USHAMART,Iron & Steel Products
 USK,Civil Construction
@@ -2803,6 +2808,7 @@ VHL,Investment Company
 VHLTD,Unknown
 VIDHIING,Specialty Chemicals
 VIESL,Unknown
+VIGOR,Unknown
 VIJAYA,Healthcare Service Provider
 VIJAYPD,Unknown
 VIJIFIN,Non Banking Financial Company (NBFC)
@@ -2811,6 +2817,7 @@ VIKASLIFE,Trading & Distributors
 VIKRAMSOLR,Unknown
 VIKRAN,Unknown
 VILAS,Unknown
+VILINBIO,Unknown
 VIMTALABS,"Healthcare Research, Analytics & Technology"
 VINATIORGA,Specialty Chemicals
 VINCOFE,Trading & Distributors
@@ -2829,6 +2836,7 @@ VISASTEEL,Unknown
 VISHNU,Specialty Chemicals
 VISHNUINFR,Unknown
 VISHWARAJ,Sugar
+VISHWAS,Unknown
 VITAL,Unknown
 VIVIANA,Unknown
 VIVIDHA,Garments & Apparels
@@ -2839,18 +2847,20 @@ VMARCIND,Unknown
 VMART,Diversified Retail
 VMM,Diversified Retail
 VMSTMT,Unknown
-VOLERCAR,Unknown
 VOLTAMP,Heavy Electrical Equipment
 VOLTAS,Household Appliances
 VPRPL,Civil Construction
+VR,Unknown
 VRAJ,Sponge Iron
 VRLLOG,Logistics Solution Provider
+VSCL,Unknown
 VSSL,Iron & Steel Products
 VSTIND,Cigarettes & Tobacco Products
 VSTL,Iron & Steel Products
 VSTTILLERS,Tractors
 VTL,Other Textile Products
 WAAREEENER,Other Electrical Equipment
+WAAREEINDO,Unknown
 WAAREERTL,Other Electrical Equipment
 WABAG,Water Supply & Management
 WALCHANNAG,Industrial Products
@@ -2870,7 +2880,6 @@ WEWIN,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
 WEWORK,Unknown
 WHEELS,Auto Components & Equipments
 WHIRLPOOL,Household Appliances
-WHITEFORCE,Unknown
 WILLAMAGOR,Investment Company
 WINDLAS,Pharmaceuticals
 WINDMACHIN,Industrial Products
