@@ -4,48 +4,74 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dashboard Index</title>
+
   <style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f6f8;
       padding: 30px;
     }
+
     h1 {
       color: #333;
+      margin-bottom: 20px;
     }
+
     ul {
       list-style: none;
       padding: 0;
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;   /* allows wrap on small screens */
+      gap: 12px;
     }
+
     li {
-      margin: 10px 0;
+      margin: 0;
     }
+
     a {
+      display: inline-block;
+      padding: 10px 14px;
+      background: #ffffff;
+      border: 1px solid #ddd;
+      border-radius: 6px;
       text-decoration: none;
       color: #007bff;
-      font-size: 18px;
+      font-size: 15px;
+      transition: all 0.2s ease;
     }
+
     a:hover {
-      text-decoration: underline;
+      background: #007bff;
+      color: #fff;
+      border-color: #007bff;
     }
   </style>
 </head>
+
 <body>
-  <h1>Available Dashboards</h1>
+
+  <h1>Pages</h1>
+
   <ul>
-    <li><a href="./elite_perfect_7of7.html" target="_blank">Elite Perfect 7of7</a></li>
-    <li><a href="./enhanced_stock_dashboard_fixed.html" target="_blank">Enhanced Stock Dashboard (Fixed)</a></li>
-    <li><a href="./enhanced_stock_dashboard_fixed_indices.html" target="_blank">Enhanced Stock Dashboard (Indices)</a></li>
-    <li><a href="./industry_grouped_return_matrix.html" target="_blank">Industry Grouped Return Matrix</a></li>
+    <li><a href="./elite_perfect_7of7.html" target="_blank">Elite 7of7</a></li>
+    <li><a href="./enhanced_stock_dashboard_fixed.html" target="_blank">Stock Dashboard</a></li>
+    <li><a href="./enhanced_stock_dashboard_fixed_indices.html" target="_blank">Indices</a></li>
+    <li><a href="./industry_grouped_return_matrix.html" target="_blank">Industry Matrix</a></li>
     <li><a href="./options_oi_chart.html" target="_blank">Weekly</a></li>
-    <li><a href="./options_oi_chartnxtweek.html" target="_blank">NxtWeekly</a></li>    
-    <li><a href="./options_oi_chartmonth.html" target="_blank">Monthly</a></li>       
-    <li><a href="./options_oi_chartnxtmonth.html" target="_blank">Nxt Monthly</a></li>         
-    <li><a href="./Dashboard.html" target="_blank">OI weekly history</a></li>     
-    <li><a href="./DashboardMonth.html" target="_blank">OI monthly history</a></li>     
-    <li><a href="./breadth.html" target="_blank">Breadth</a></li>     
-    <li><a href="./breadth200.html" target="_blank">Breadth200</a></li>     
-    <li><a href="./breadth50.html" target="_blank">Breadth50</a></li>    
+    <li><a href="./options_oi_chartnxtweek.html" target="_blank">Next Weekly</a></li>
+    <li><a href="./options_oi_chartmonth.html" target="_blank">Monthly</a></li>
+    <li><a href="./options_oi_chartnxtmonth.html" target="_blank">Next Monthly</a></li>
+    <li><a href="./Dashboard.html" target="_blank">OI Weekly History</a></li>
+    <li><a href="./DashboardMonth.html" target="_blank">OI Monthly History</a></li>
+    <li><a href="./breadth.html" target="_blank">Breadth</a></li>
+    <li><a href="./breadth200.html" target="_blank">Breadth 200</a></li>
+    <li><a href="./breadth50.html" target="_blank">Breadth 50</a></li>
+    <li><a href="../enhanced_52week_screenerfull.html" target="_blank">HL Search</a></li>
+    <li><a href="../delivery_deviation_dashboard700full.html" target="_blank">Delivery Deviation</a></li>
+    <li><a href="./csv.html" target="_blank">Mtly OI CSV</a></li>
   </ul>
+
 </body>
 </html>
